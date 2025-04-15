@@ -19,3 +19,4 @@ Langchain 2 - news summariser
 Langchain 3 - language translator
 Langchain 4 - resume analyser
 Langchain 5 - medical diagnosis assistant
+Linear regression - logical regression - random forest - ANN - CNN - RNN - LSTM - CAN - Summariser - Google translator - lang chain for 2 LLM models - lang chain for 1LLM and other - Image classifier - Housing prices using Linear regression - Housing prices using logical regression - using synthetic data - using data sets
